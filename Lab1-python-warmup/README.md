@@ -25,7 +25,7 @@ python --version
 ```
 You should have Python version 3 (the most recent version of Python is 3.9.6, but older versions should be fine).
 
-**Download Lab Materials.** This lab requires you to download and modify `lab1.py`.  In a few weeks, we will learn about [Git](https://git-scm.com/) and [GitHub](https://github.com/); if you know these tools you are free to fork this repo.  For now, though, you will follow these instructions to download and modify `lab1.py` and, once you are satisfied with the assignment, you will submit the `lab1.py` file via Moodle.  Once you have installed Python3 and have your editor of choice, you should be able to download `lab1.py` and run it without errors.  On GitHub, you can click `lab1.py` and click the "Raw" button (or you can go [straight to this link](https://raw.githubusercontent.com/Reed-CompBio/BIO331-F21/main/Lab1-python-warmup/lab1.py).
+**Download Lab Materials.** This lab requires you to download and modify `lab1.py`.  In a few weeks, we will learn about [Git](https://git-scm.com/) and [GitHub](https://github.com/); if you know these tools you are free to fork this repo.  For now, though, you will follow these instructions to download and modify `lab1.py` and, once you are satisfied with the assignment, you will submit the `lab1.py` file via Moodle.  Once you have installed Python3 and have your editor of choice, you should be able to download `lab1.py` and run it without errors.  On GitHub, you can click `lab1.py` and click the "Raw" button (or you can go [straight to this link](https://raw.githubusercontent.com/Reed-CompBio/BIO331-F21/main/Lab1-python-warmup/lab1.py)).
 
 ![code-download](figs/code-download.png)
 
