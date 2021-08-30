@@ -36,6 +36,9 @@ This is clunky, but will get better when we learn about version control.
 Once you have installed Python3 and have your editor of choice, you should be able to download `lab1.py` and run it without errors.  When you run `lab1.py`, you will get some "FILL IN" stubs and all counts are -1.  You will change these parts in the file.
 
 :bulb: Hint: beware of tabs vs. spaces in Python; different editors have different default values. If you keep getting `IndentationError`, `SyntaxError`, or `Inconsistent use of tabs and spaces` when changing simple things replace all spaces to tabs (or vice versa).
+- If you are using **Atom**, it seems to work fine. You can switch from tabs to spaces and vice versa under `Packages -> Whitespace`.
+- If you are using **Spyder**, you can select `Source -> Show Blank Spaces` to see whether there is a mix of tabs and spaces. You can then run `Source -> Fix Indentation` to convert tabs to spaces.
+- If you are using **IDLE**, there appears to be a way to convert tabs to spaces.  You can select `Edit -> Untabify Region` (from [this source](https://stackoverflow.com/questions/16547305/can-i-configure-idle-to-automatically-convert-tabs-to-spaces)).
 
 ## 2. Working with Adjacency Matrices
 
