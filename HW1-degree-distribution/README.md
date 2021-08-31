@@ -1,7 +1,5 @@
 # Programming Assignment 1: Degree Distribution
 
-![under construction](../figs/under-construction-2408062_640.png)
-
 In this homework, you will plot the degree distribution of animal social networks. All graphs are undirected and unweighted, and they are located in the `files/` subdirectory.
 
 * **Assignment Out:** Wednesday, Sept 1
