@@ -7,4 +7,4 @@ Reed College Bio331: _Computational Systems Biology_ Fall 2021
 
 README files that are in draft form will be shown as "under construction":
 
-![under construction](../figs/under-construction-2408062_640.png)
+![under construction](figs/under-construction-small.png)
