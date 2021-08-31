@@ -1,3 +1,6 @@
+## ignore solutions
+*_sol.py
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
